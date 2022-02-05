@@ -20,12 +20,57 @@ Short Journal Article 1
 
 For this assignment, you will write a short (1000 words or less) journal-style communication briefly describing your findings on the research portion of this design project. We would like you to focus on the following:
 
-| SECTION | FOCUS |
-| --- | --- |
-| Introduction | Talk about the design problem as a whole, while noting the significance of solving it. |
-| Background | Talk about your team's sub-problem, and some of the specific design challenges facing your team. |
-| Results | Here you will present the design importance metrics your team decided upon, and which of the possible solutions you specifically studied (just you). Talk about how the choices you researched align with your QFD criteria, whether or not one of your choices was chosen as the design path, and why. |
-| Conclusions, Future Work | Summarize your findings briefly (1 paragraph), and quickly state where you plan to go from here. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTION
+{{< thclose >}}
+{{< thopen >}}
+FOCUS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Talk about the design problem as a whole, while noting the significance of solving it.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Background
+{{< tdclose >}}
+{{< tdopen >}}
+Talk about your team's sub-problem, and some of the specific design challenges facing your team.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Results
+{{< tdclose >}}
+{{< tdopen >}}
+Here you will present the design importance metrics your team decided upon, and which of the possible solutions you specifically studied (just you). Talk about how the choices you researched align with your QFD criteria, whether or not one of your choices was chosen as the design path, and why.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Conclusions, Future Work
+{{< tdclose >}}
+{{< tdopen >}}
+Summarize your findings briefly (1 paragraph), and quickly state where you plan to go from here.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### {{< anchor "Student_work_1" >}}{{< /anchor >}}Sample Papers
 

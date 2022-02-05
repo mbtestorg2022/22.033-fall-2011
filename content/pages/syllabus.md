@@ -85,12 +85,57 @@ This is a very open-ended problem, with many possible solutions. In order to hel
 
 This problem can be divided into four main sub-tasks, each of which can function semi-autonomously, while still maintaining an integrated design approach. These sub-tasks are:
 
-| SUB-TASK GROUPS | RESPONSIBILITIES |
-| --- | --- |
-| Core | The core group is responsible for choosing a reactor coolant for its core, and for optimizing the operating parameters in terms of electricity production, core materials issues, and nuclear plant safety. Detailed rationalization for the choice of a core technology, overall design parameters, and safety issues specific to the chosen core must be given. |
-| Process heat | The process heat group is responsible for optimizing the thermodynamic parameters for moving heat from the core to the two fuel production facilities. This includes overall plant layout, thermal circuit analysis, heat storage & delivery, and primary/secondary cycle optimization, as well as safety & materials concerns. |
-| Hydrogen | The hydrogen group is responsible for choosing and optimizing a technology to generate hydrogen using the process heat from the reactor. This includes selecting a method/technology for hydrogen production, constructing an overall H2 plant diagram, and dealing with materials & safety issues related to hydrogen production. This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as determining how much fossil fuels can be displaced by using their H2. |
-| Biofuel | The biofuel group is responsible for choosing and optimizing a technology to generate liquid and/or gaseous synthetic fuels. This includes method/technology selection, the design of a fuel production plant based on available heat loads, and dealing with the specific materials & safety issues related to liquid fuel production (such as organic material compability, biological corrosion, and environmental contamination concerns). This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as carbon sequestration. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SUB-TASK GROUPS
+{{< thclose >}}
+{{< thopen >}}
+RESPONSIBILITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Core
+{{< tdclose >}}
+{{< tdopen >}}
+The core group is responsible for choosing a reactor coolant for its core, and for optimizing the operating parameters in terms of electricity production, core materials issues, and nuclear plant safety. Detailed rationalization for the choice of a core technology, overall design parameters, and safety issues specific to the chosen core must be given.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Process heat
+{{< tdclose >}}
+{{< tdopen >}}
+The process heat group is responsible for optimizing the thermodynamic parameters for moving heat from the core to the two fuel production facilities. This includes overall plant layout, thermal circuit analysis, heat storage & delivery, and primary/secondary cycle optimization, as well as safety & materials concerns.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+The hydrogen group is responsible for choosing and optimizing a technology to generate hydrogen using the process heat from the reactor. This includes selecting a method/technology for hydrogen production, constructing an overall H2 plant diagram, and dealing with materials & safety issues related to hydrogen production. This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as determining how much fossil fuels can be displaced by using their H2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biofuel
+{{< tdclose >}}
+{{< tdopen >}}
+The biofuel group is responsible for choosing and optimizing a technology to generate liquid and/or gaseous synthetic fuels. This includes method/technology selection, the design of a fuel production plant based on available heat loads, and dealing with the specific materials & safety issues related to liquid fuel production (such as organic material compability, biological corrosion, and environmental contamination concerns). This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as carbon sequestration.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "course-structure" >}}{{< /anchor >}}Course Structure
 ----------------------------------------------------------------
@@ -152,10 +197,63 @@ Grading
 
 Grading for the course will be a combination of your individual efforts, those of your sub-task, and those of the overall group.
 
-| ITEM | GRADE % |
-| --- | --- |
-| Short journal communication (x3) | 30% |
-| Sub-task oral presentations (x2) | 30% |
-| Sub-task final report contribution | 15% |
-| Overall final report | 15% |
-| Overall final presentation | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ITEM
+{{< thclose >}}
+{{< thopen >}}
+GRADE %
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short journal communication (x3)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sub-task oral presentations (x2)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sub-task final report contribution
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Overall final report
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Overall final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

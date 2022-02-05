@@ -13,44 +13,603 @@ Rec = Recitation
 Grp = Group work  
 Proj = Project presentations
 
-| MTG # | SES # | TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**I. Introductory Talks, Major Design Choices**{{< /td-colspan >}} ||||
-| 1 | Intro | Course introduction | &nbsp; |
-| 2 | Lec 1 | Sub-task intro: Core, nonconventional (non-PWR/BWR) reactors | &nbsp; |
-| 3 | Lec 2 |  {{< br >}}{{< br >}} Sub-task intro: Process Heat {{< br >}}{{< br >}} Logistics, journal articles, group responsibilities {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Rec 1 | LyX tutorial | &nbsp; |
-| 5 | Lec 3 |  {{< br >}}{{< br >}} Sub-task intros: Hydrogen, Biofuels {{< br >}}{{< br >}} Design process, importance metrics {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Rec 2 | Leadership skills | Team Logo Contest entries due |
-| 7 | Lec 4 | Quality Function Deployment (QFD) example using House of Quality (HoQ) | &nbsp; |
-| 8 | Lec 5 |  {{< br >}}{{< br >}} Short lecture on presentation techniques {{< br >}}{{< br >}} Some group time, integrator progress reports {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Rec 3 | EES thermodynamic software | &nbsp; |
-| 10 | Proj 1 | Sub-task presentation I: Core | &nbsp; |
-| 11 | Proj 2 | Sub-task presentation I: Hydrogen | Journal article 1 due |
-| 12 | Rec 4 | Engineering leadership & leadership styles | &nbsp; |
-| 13 | Proj 3 | Sub-task presentation I: Process Heat, Biofuel | &nbsp; |
-| {{< td-colspan 4 >}}**II. Research, Design, & Optimization**{{< /td-colspan >}} ||||
-| 14 | Grp 1 | Start quantitative design process | &nbsp; |
-| 15 | Grp 2 | Group time; detailed critques on first journal articles | &nbsp; |
-| 16 | Grp 3 | Team mentoring with Mike & Tyrell | &nbsp; |
-| 17 | Rec 5 | Intermediate LyX tips and tricks | Journal article 1 revision due |
-| 18 | Grp 4 | One-on-one mentoring with Mike & Tyrell | &nbsp; |
-| 19 | Grp 5 | One-on-one mentoring with Mike & Tyrell (cont.) | &nbsp; |
-| 20 | Rec 6 | Process Heat schematic development | &nbsp; |
-| 21 | Lec 6 | CaC2/acetylene block diagram | &nbsp; |
-| 22 | Lec 7 | Qualitative optimization of CaC2/acetylene block diagram | &nbsp; |
-| 23 | Rec 7 | Optimizing the CaC2/acetylene block diagram using EES | &nbsp; |
-| 24 | Proj 4 | Sub-task presentation II: Core | &nbsp; |
-| 25 | Proj 5 | Sub-task presentation II: Hydrogen | &nbsp; |
-| 26 | Rec 8 |  {{< br >}}{{< br >}} Modifying the CaC2/Acetylene system using EES {{< br >}}{{< br >}} LyX advanced topics {{< br >}}{{< br >}}  | &nbsp; |
-| 27 | Proj 6 | Sub-task presentation II: Biofuel | &nbsp; |
-| 28 | Proj 7 | Sub-task presentation II: Process Heat | Journal article 2 due |
-| {{< td-colspan 4 >}}**III. Fine Tuning, Secondary Concerns**{{< /td-colspan >}} ||||
-| 29 | Rec 9 |  {{< br >}}{{< br >}} Modeling multicomponent systems in EES {{< br >}}{{< br >}} Sub-system integration {{< br >}}{{< br >}}  | &nbsp; |
-| 30 | Lec 8 | Metals and cheeses: unconventional pairings | &nbsp; |
-| 31–33 | Grp 6–Grp 8 | In-class refinement of overall block diagram, input/output coordination | &nbsp; |
-| 34 | Rec 10 | Integrating block diagram models in EES | &nbsp; |
-| 35–37 | Grp 9–Grp 11 | In-class refinement of overall block diagram, input/output coordination | &nbsp; |
-| {{< td-colspan 4 >}}**IV. Final Report & Presentation**{{< /td-colspan >}} ||||
-| 38 | Proj 8 | Practice final presentation | Final presentation draft assembled |
-| 39 | Proj 9 | Final presentation with invited guests | Final report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MTG #
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**I. Introductory Talks, Major Design Choices**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task intro: Core, nonconventional (non-PWR/BWR) reactors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sub-task intro: Process Heat
+
+Logistics, journal articles, group responsibilities
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 1
+{{< tdclose >}}
+{{< tdopen >}}
+LyX tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sub-task intros: Hydrogen, Biofuels
+
+Design process, importance metrics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 2
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership skills
+{{< tdclose >}}
+{{< tdopen >}}
+Team Logo Contest entries due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Quality Function Deployment (QFD) example using House of Quality (HoQ)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short lecture on presentation techniques
+
+Some group time, integrator progress reports
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 3
+{{< tdclose >}}
+{{< tdopen >}}
+EES thermodynamic software
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 1
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation I: Core
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 2
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation I: Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+Journal article 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering leadership & leadership styles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 3
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation I: Process Heat, Biofuel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**II. Research, Design, & Optimization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 1
+{{< tdclose >}}
+{{< tdopen >}}
+Start quantitative design process
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 2
+{{< tdclose >}}
+{{< tdopen >}}
+Group time; detailed critques on first journal articles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 3
+{{< tdclose >}}
+{{< tdopen >}}
+Team mentoring with Mike & Tyrell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Intermediate LyX tips and tricks
+{{< tdclose >}}
+{{< tdopen >}}
+Journal article 1 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 4
+{{< tdclose >}}
+{{< tdopen >}}
+One-on-one mentoring with Mike & Tyrell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 5
+{{< tdclose >}}
+{{< tdopen >}}
+One-on-one mentoring with Mike & Tyrell (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 6
+{{< tdclose >}}
+{{< tdopen >}}
+Process Heat schematic development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+CaC2/acetylene block diagram
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Qualitative optimization of CaC2/acetylene block diagram
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Optimizing the CaC2/acetylene block diagram using EES
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 4
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation II: Core
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 5
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation II: Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modifying the CaC2/Acetylene system using EES
+
+LyX advanced topics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 6
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation II: Biofuel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 7
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-task presentation II: Process Heat
+{{< tdclose >}}
+{{< tdopen >}}
+Journal article 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**III. Fine Tuning, Secondary Concerns**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modeling multicomponent systems in EES
+
+Sub-system integration
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and cheeses: unconventional pairings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31–33
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 6–Grp 8
+{{< tdclose >}}
+{{< tdopen >}}
+In-class refinement of overall block diagram, input/output coordination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating block diagram models in EES
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35–37
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 9–Grp 11
+{{< tdclose >}}
+{{< tdopen >}}
+In-class refinement of overall block diagram, input/output coordination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**IV. Final Report & Presentation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 8
+{{< tdclose >}}
+{{< tdopen >}}
+Practice final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation draft assembled
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 9
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation with invited guests
+{{< tdclose >}}
+{{< tdopen >}}
+Final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

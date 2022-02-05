@@ -27,43 +27,688 @@ Session Key
 > Grp = Group work  
 > Proj = Project presentations
 
-| MTG # | SES # | TOPICS | RESOURCES |
-| --- | --- | --- | --- |
-| 1 | Intro | Course introduction | &nbsp; |
-| 2 | Lec 1 | Core: Nonconventional (non-PWR/BWR) reactors |  {{< br >}}{{< br >}} [Lecture video and slides]({{< baseurl >}}/resources/lecture-1-core-nonconventional-non-pwr-bwr-reactors) {{< br >}}{{< br >}} [Announcement: Lecture 1 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_1) {{< br >}}{{< br >}}  |
-| 3 | Lec 2 |  {{< br >}}{{< br >}} Process Heat: Major challenges {{< br >}}{{< br >}} Logistics, journal articles, group responsibilities {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lecture video and slides]({{< baseurl >}}/resources/lecture-2-process-heat-major-challenges) {{< br >}}{{< br >}} [Announcement: Lecture 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_2) {{< br >}}{{< br >}}  |
-| 4 | Rec 1 | LyX tutorial | &nbsp; |
-| 5 | Lec 3 | Hydrogen, Biofuels; design process, importance metrics |  {{< br >}}{{< br >}} [Lecture video and slides]({{< baseurl >}}/resources/lecture-3-hydrogen-and-biofuel-production-design-process) {{< br >}}{{< br >}}  |
-| 6 | Rec 2 | Leadership skills |  {{< br >}}{{< br >}} Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program. {{< br >}}{{< br >}} [Announcement: Recitation 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_3) {{< br >}}{{< br >}}  |
-| 7 | Lec 4 | Quality Function Deployment (QFD) example using House of Quality (HoQ) |  {{< br >}}{{< br >}} [Announcement: Lecture 4 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_4) {{< br >}}{{< br >}} [Lecture video]({{< baseurl >}}/resources/lecture-4-quality-function-deployment-qfd-and-house-of-quality) {{< br >}}{{< br >}} [HoQ spreadsheet template](http://qfdonline.com/templates/) by QFDOnline.com {{< br >}}{{< br >}}  |
-| 8 | Lec 5 |  {{< br >}}{{< br >}} Presentation techniques {{< br >}}{{< br >}} Group time, integrator progress reports {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Announcement: Lecture 5 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_5) {{< br >}}{{< br >}} Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_lec05)) {{< br >}}{{< br >}}  |
-| 9 | Rec 3 | EES thermodynamic software |  {{< br >}}{{< br >}} [Announcement: Recitation 3 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_6) {{< br >}}{{< br >}}  |
-| 10 | Proj 1 | Sub-Task Presentation I: Core |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for slides {{< br >}}{{< br >}}  |
-| 11 | Proj 2 | Sub-Task Presentation I: Hydrogen |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for slides {{< br >}}{{< br >}}  |
-| 12 | Rec 4 | Engineering leadership & leadership styles |  {{< br >}}{{< br >}} Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec04)) {{< br >}}{{< br >}} Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program. {{< br >}}{{< br >}} [Announcement: Recitation 4 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_7) {{< br >}}{{< br >}}  |
-| 13 | Proj 3 | Sub-Task Presentation I: Process Heat, Biofuel |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for slides {{< br >}}{{< br >}} [Announcement: Project Work 3 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_8) {{< br >}}{{< br >}}  |
-| 14 | Grp 1 | Group time: Start quantitative design process | &nbsp; |
-| 15 | Grp 2 | Group time: Detailed critques on first journal articles |  {{< br >}}{{< br >}} [Announcement: Group Work 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_9) {{< br >}}{{< br >}}  |
-| 16 | Grp 3 | Group time: Team mentoring with Mike & Tyrell | &nbsp; |
-| 17 | Rec 5 | Intermediate LyX tips and tricks |  {{< br >}}{{< br >}} [Announcement: Recitation 5 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_10) {{< br >}}{{< br >}} [Announcement: Recitation 5 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_11) {{< br >}}{{< br >}}  |
-| 18 | Grp 4 | Group time: One-on-one mentoring with Mike & Tyrell | &nbsp; |
-| 19 | Grp 5 | Group time: One-on-one mentoring with Mike & Tyrell (cont.) | &nbsp; |
-| 20 | Rec 6 | Recitation: Schematic development |  {{< br >}}{{< br >}} [Announcement: Recitation 6 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_12) {{< br >}}{{< br >}}  |
-| 21 | Lec 6 | CaC2/acetylene block diagram | &nbsp; |
-| 22 | Lec 7 | Qualitative optimization of CaC2/acetylene block diagram |  {{< br >}}{{< br >}} [Announcement: Lecture 7 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_13) {{< br >}}{{< br >}} [Lecture video and notes]({{< baseurl >}}/resources/lecture-7-qualitative-optimization-of-cac2-acetylene-block-diagram) {{< br >}}{{< br >}} [Announcement: Lecture 7 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_14) {{< br >}}{{< br >}}  |
-| 23 | Rec 7 | Optimizing the CaC2/acetylene block diagram using EES | &nbsp; |
-| 24 | Proj 4 | Sub-Task Presentation II: Core |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides {{< br >}}{{< br >}}  |
-| 25 | Proj 5 | Sub-Task Presentation II: Hydrogen |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides {{< br >}}{{< br >}}  |
-| 26 | Rec 8 |  {{< br >}}{{< br >}} Modifying the CaC2/Acetylene system using EES {{< br >}}{{< br >}} LyX advanced topics {{< br >}}{{< br >}}  | &nbsp; |
-| 27 | Proj 6 | Sub-Task Presentation II: Biofuel |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides {{< br >}}{{< br >}}  |
-| 28 | Proj 7 | Sub-Task Presentation II: Process Heat |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for slides {{< br >}}{{< br >}}  |
-| 29 | Rec 9 | Modeling multicomponent systems in EES; sub-system integration | &nbsp; |
-| 30 | Lec 8 | Metals and cheeses: Unconventional pairings |  {{< br >}}{{< br >}} [Lecture video, slides, and tasting menu]({{< baseurl >}}/resources/lecture-8-metals-and-cheeses-uncoventional-pairings) {{< br >}}{{< br >}}  |
-| 31–33 | Grp 6–Grp 8 | In-class refinement of overall block diagram, input/output coordination |  {{< br >}}{{< br >}} [Announcement: Group Work 6 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_15) {{< br >}}{{< br >}} [Announcement: Group Work 8 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_16) {{< br >}}{{< br >}}  |
-| 34 | Rec 10 | Integrating block diagram models in EES |  {{< br >}}{{< br >}} Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec10)) {{< br >}}{{< br >}}  |
-| 35–37 | Grp 9–Grp 11 | In-class refinement of overall block diagram, input/output coordination | &nbsp; |
-| 38 | Proj 8 | Practice final presentation | &nbsp; |
-| 39 | Proj 9 | Final presentation with invited guests |  {{< br >}}{{< br >}} See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MTG #
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Core: Nonconventional (non-PWR/BWR) reactors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture video and slides]({{< baseurl >}}/resources/lecture-1-core-nonconventional-non-pwr-bwr-reactors)
+
+[Announcement: Lecture 1 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Heat: Major challenges
+
+Logistics, journal articles, group responsibilities
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture video and slides]({{< baseurl >}}/resources/lecture-2-process-heat-major-challenges)
+
+[Announcement: Lecture 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 1
+{{< tdclose >}}
+{{< tdopen >}}
+LyX tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen, Biofuels; design process, importance metrics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture video and slides]({{< baseurl >}}/resources/lecture-3-hydrogen-and-biofuel-production-design-process)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 2
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership skills
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
+
+[Announcement: Recitation 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_3)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Quality Function Deployment (QFD) example using House of Quality (HoQ)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Lecture 4 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_4)
+
+[Lecture video]({{< baseurl >}}/resources/lecture-4-quality-function-deployment-qfd-and-house-of-quality)
+
+[HoQ spreadsheet template](http://qfdonline.com/templates/) by QFDOnline.com
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation techniques
+
+Group time, integrator progress reports
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Lecture 5 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_5)
+
+Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_lec05))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 3
+{{< tdclose >}}
+{{< tdopen >}}
+EES thermodynamic software
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Recitation 3 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_6)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 1
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation I: Core
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 2
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation I: Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering leadership & leadership styles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec04))
+
+Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
+
+[Announcement: Recitation 4 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_7)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 3
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation I: Process Heat, Biofuel
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+
+[Announcement: Project Work 3 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_8)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 1
+{{< tdclose >}}
+{{< tdopen >}}
+Group time: Start quantitative design process
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 2
+{{< tdclose >}}
+{{< tdopen >}}
+Group time: Detailed critques on first journal articles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Group Work 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_9)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 3
+{{< tdclose >}}
+{{< tdopen >}}
+Group time: Team mentoring with Mike & Tyrell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Intermediate LyX tips and tricks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Recitation 5 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_10)
+
+[Announcement: Recitation 5 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_11)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 4
+{{< tdclose >}}
+{{< tdopen >}}
+Group time: One-on-one mentoring with Mike & Tyrell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 5
+{{< tdclose >}}
+{{< tdopen >}}
+Group time: One-on-one mentoring with Mike & Tyrell (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Schematic development
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Recitation 6 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_12)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+CaC2/acetylene block diagram
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Qualitative optimization of CaC2/acetylene block diagram
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Lecture 7 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_13)
+
+[Lecture video and notes]({{< baseurl >}}/resources/lecture-7-qualitative-optimization-of-cac2-acetylene-block-diagram)
+
+[Announcement: Lecture 7 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_14)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Optimizing the CaC2/acetylene block diagram using EES
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 4
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation II: Core
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 5
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation II: Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modifying the CaC2/Acetylene system using EES
+
+LyX advanced topics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 6
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation II: Biofuel
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 7
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-Task Presentation II: Process Heat
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 9
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling multicomponent systems in EES; sub-system integration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Metals and cheeses: Unconventional pairings
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture video, slides, and tasting menu]({{< baseurl >}}/resources/lecture-8-metals-and-cheeses-uncoventional-pairings)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31–33
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 6–Grp 8
+{{< tdclose >}}
+{{< tdopen >}}
+In-class refinement of overall block diagram, input/output coordination
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Announcement: Group Work 6 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_15)
+
+[Announcement: Group Work 8 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_16)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Rec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating block diagram models in EES
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec10))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35–37
+{{< tdclose >}}
+{{< tdopen >}}
+Grp 9–Grp 11
+{{< tdclose >}}
+{{< tdopen >}}
+In-class refinement of overall block diagram, input/output coordination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 8
+{{< tdclose >}}
+{{< tdopen >}}
+Practice final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Proj 9
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation with invited guests
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Video Gallery
 -------------
