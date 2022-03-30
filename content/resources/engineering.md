@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b830ab64-2e27-3513-cb30-a2f98c366c75
 resourcetype: Image
 title: engineering.JPG
 uid: c09c5811-a027-bc2c-0713-d6596d9905f9

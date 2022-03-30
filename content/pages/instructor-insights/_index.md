@@ -49,7 +49,7 @@ Curriculum Information
 ### Prerequisites
 
 *   For undergraduate (22.033) credit: no prerequisites
-*   For graduate (22.33) credit: [22.312 _Engineering of Nuclear Reactors_](/courses/22-312-engineering-of-nuclear-reactors-fall-2015/)
+*   For graduate (22.33) credit: [22.312 _Engineering of Nuclear Reactors_](/courses/22-312-engineering-of-nuclear-reactors-fall-2015)
 
 ### Requirements Satisfied
 

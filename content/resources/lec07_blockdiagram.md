@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886
 resourcetype: Image
 title: lec07_blockdiagram.png
 uid: 6ae78b32-a410-96de-4a56-2b34ab6efe8c

@@ -157,7 +157,7 @@ _Posted by:_ Michael Short
 
 Since it's about the midpoint of the term, I've created a survey to help us gauge the effectiveness of the design course. Please fill out this survey within the next week.
 
-Mid-term survey questions ([PDF](/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/videos-class-notes/announcements/MIT22_033F11_mt_survey.pdf))
+Mid-term survey questions ({{% resource_link "5534d773-22e9-9a7b-4d67-5eb109a01e75" "PDF" %}})
 
 Thanks in advance for your responses, and we'll see you tomorrrow!
 
@@ -181,7 +181,7 @@ _Posted by:_ Michael Short
 
 I've generated and posted a block diagram in Inkscape that covers the CaC2/acetylene example we went over in class. It includes color block diagrams from each iteration in the calcium carbide / acetylene system design.
 
-*   CaC2/acetylene block diagram ([PNG](/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/videos-class-notes/announcements/lec07_blockdiagram.png))
+*   CaC2/acetylene block diagram ({{% resource_link "6ae78b32-a410-96de-4a56-2b34ab6efe8c" "PNG" %}})
 
 Please have a look at this diagram, as it contains an example of the general methodology for optimizing the systems you will be working on (especially hydrogen and biofuels). We will be continuing to work from this diagram, so I recommend printing it out (in color, if possible) for easier note taking.
 

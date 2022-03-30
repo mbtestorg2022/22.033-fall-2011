@@ -4,6 +4,7 @@ description: "This resource contains information regarding 22.033 core group\u20
   reactor core and secondary design."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-033-nuclear-systems-design-project-fall-2011/889f9a86620fbee0555c6b58489889f3_MIT22_033F11_proj_p2_core.pdf
 file_type: application/pdf
+parent_uid: 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925
 resourcetype: Document
 title: MIT22_033F11_proj_p2_core.pdf
 uid: 889f9a86-620f-bee0-555c-6b58489889f3

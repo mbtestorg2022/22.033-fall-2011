@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: cec37c2f-0ed4-584e-28d6-1c6630ff78e9
 resourcetype: Image
 title: couch-plus-computer.jpg
 uid: 589b003c-34cc-cac5-1a05-e7a5a8f7243a

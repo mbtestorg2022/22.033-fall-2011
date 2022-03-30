@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9e145b33-d473-f70e-ec45-5c73fc291a97
 resourcetype: Image
 title: reactorpiece.jpg
 uid: e2580c7c-4020-54f9-9c38-499ba7cc4b70

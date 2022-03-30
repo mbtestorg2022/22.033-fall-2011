@@ -31,7 +31,7 @@ This course is open to both upper level undergraduate students and graduate stud
 
 22.033 is the undergraduate credit designation. There are no required prerequisites.
 
-22.33 is the graduate credit designation. Graduate students are expected to complete additional assignments. [_22.312 Engineering of Nuclear Reactors_](/courses/22-312-engineering-of-nuclear-reactors-fall-2015/) is a prerequisite for 22.33 credit.
+22.33 is the graduate credit designation. Graduate students are expected to complete additional assignments. [_22.312 Engineering of Nuclear Reactors_](/courses/22-312-engineering-of-nuclear-reactors-fall-2015) is a prerequisite for 22.33 credit.
 
 {{< anchor "goals" >}}{{< /anchor >}}Overall Goals of the Course
 ----------------------------------------------------------------
